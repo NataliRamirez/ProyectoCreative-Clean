@@ -91,6 +91,7 @@ h3, h1{
     padding-right: 50vw;
     margin-bottom: 0%;
     padding-bottom: 0%;
+    background-size: cover;
 }
 .terceraSeccion h3 {
     font-weight: bold;
